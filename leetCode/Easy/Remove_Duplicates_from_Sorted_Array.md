@@ -16,6 +16,7 @@ const removeDuplicates = function(nums) {
             i--;
         }
     }
+    
     return nums.length;
 }
 ```

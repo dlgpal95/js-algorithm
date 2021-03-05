@@ -49,6 +49,7 @@ linked list가 익숙하지 않아서 다른 답안은 참고해서 짰다.
 
 <hr/>
 
+
 ### :heavy_check_mark: 참고하면 좋은 다른 답안 
 
 Thanks for = https://leetcode.com/problems/merge-two-sorted-lists/discuss/275807/clean-and-fast-javascript
